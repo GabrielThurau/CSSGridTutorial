@@ -16,6 +16,10 @@
   height: 600px;
   width: 600px;
   border: 1px solid black;
+  display: grid;
+  grid-template-columns: 200px 400px;
+  grid-template-rows: 100px 400px 100px; 
+
 
   /* Create 2 columns: 
     - 200px 

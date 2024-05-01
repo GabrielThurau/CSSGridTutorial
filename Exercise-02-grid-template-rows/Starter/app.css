@@ -30,6 +30,8 @@
 .container {
   width: 800px;
   margin: 0 auto;
+  display: grid;
+  grid-template-rows: 150px 50px 400px 150px; 
 
   /* create 4 rows:  
   - 150px 
