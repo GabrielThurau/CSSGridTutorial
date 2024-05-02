@@ -24,6 +24,10 @@
 
 #pinkbox {
   background-color: #e91e63;
+  grid-row-start: 2;
+  grid-row-end: 5;
+  grid-column-start: 3;
+  grid-column-end: 5;
   /* ⬇️⬇️⬇️ STYLE THE PINK BOX HERE ⬇️⬇️⬇️ */
 
   /* ⬆️⬆️⬆️ STYLE THE PINK BOX HERE ⬆️⬆️⬆️ */
